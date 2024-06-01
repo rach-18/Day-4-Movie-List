@@ -1,0 +1,10 @@
+#movie {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 25px rgba(0, 0, 255, 0.3);
+}
+
+#context {
+    background: linear-gradient(to right, #222222 85%, transparent);
+}
